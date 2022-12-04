@@ -37,3 +37,4 @@ tensorboardX
 wheel>=0.33.6
 wrds
 yfinance
+swig
